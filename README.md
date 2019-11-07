@@ -1,2 +1,2 @@
 # Polynomial-Regression
-Polynomial regression using TensorFlow.js
+Interactive GPU-accelerated polynomial regression using TensorFlow.js.
