@@ -1,0 +1,27 @@
+header {
+  padding-top: 4vh;
+  padding-bottom: 4vh;
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-size: 4vh;
+}
+
+body {
+  margin: 0;
+  min-width: 55vh;
+}
+
+#div_degree {
+  display: inline-block;
+  width: 45%;
+}
+
+#div_txt {
+  display: inline-block;
+  width: 45%;
+}
+
+#canvas_holder {
+  height: 87vh;
+}
